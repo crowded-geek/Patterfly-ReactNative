@@ -9,4 +9,4 @@ for GCI
 ### Screenshots:
 [here](https://drive.google.com/file/d/17d6t_-8wGQZPSK5NWcDR8_Wim0CA5elM/preview)
 
-Demo App: https://anonfile.com/n604w0Han2/app-release_apk
+Demo App: [here](https://anonfile.com/n604w0Han2/app-release_apk)
