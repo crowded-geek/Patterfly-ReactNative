@@ -12,3 +12,5 @@ for GCI
 [here](https://drive.google.com/file/d/17d6t_-8wGQZPSK5NWcDR8_Wim0CA5elM/preview)
 
 Demo App: [here](https://anonfile.com/n604w0Han2/app-release_apk)
+
+Google Code-in and the Google Code-in logo are trademarks of Google Inc.
